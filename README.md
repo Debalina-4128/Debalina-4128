@@ -1,4 +1,5 @@
-[![MasterHead](file:///C:/Users/KIIT/Desktop/index.html)]
+<!-- banner -->
+<img src="https://github.com/Debalina-4128/Debalina-4128/blob/main/Frame%201000005905.png">
 <h1 align="center">Hi 👋, I'm Debalina</h1>
 <h3 align="center">A passionate UI/UX designer from India</h3>
 
